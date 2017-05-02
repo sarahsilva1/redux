@@ -18,6 +18,7 @@ render(
   document.getElementById('root')
 )
 ```
+(I'm using 'app'.)
 
 ## Action Creators and Constants
 
